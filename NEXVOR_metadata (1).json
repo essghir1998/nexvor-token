@@ -1,0 +1,21 @@
+{
+  "name": "NEXVOR",
+  "symbol": "NXVR",
+  "description": "Nobody knows what NEXVOR is. That's the point.",
+  "image": "PASTE_YOUR_LOGO_URL_HERE",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "Token-2022"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}
